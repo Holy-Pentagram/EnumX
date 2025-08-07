@@ -1,7 +1,7 @@
 This is a simple FAST subdomain and directory enumeration tool
 The user is expected to make the file executable using 'chmod +x enumX' then moving it to '/usr/bin' to make it a binary (the file already contain a python shebang)
 
-https://github.com/Holy-Pentagram/EnumX/blob/main/output.mp4
+[![Watch the video](https://github.com/Holy-Pentagram/EnumX/blob/main/output.mp4)
 
 ```
 usage: enumX [-h] [-s] [-dir] -u Url -w Wordlist
